@@ -50,11 +50,6 @@ Please feel free to raise an issue for suggestions or bugs. You can ,essage me o
 
 ## License
 
-> _The project is released under the WTFPL2 [Do What The F\*ck You Want To Public License](LICENSE)._
+> _The project is released under MIT License [MIT License](LICENSE)._
 
 <hr>
-
-> [jahid.dev](https://jahid.dev) &nbsp;&middot;&nbsp;
-> YouTube [@jahidanowar](https://jahid.dev/go/yt) &nbsp;&middot;&nbsp;
-> Twitter [@jahidDev](https://jahid.dev/go/tt) &nbsp;&middot;&nbsp;
-> Instagram [@jahidDev](https://jahid.dev/go/ig)
